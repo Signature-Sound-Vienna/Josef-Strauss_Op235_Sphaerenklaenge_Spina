@@ -8,7 +8,7 @@
             <title>Sphärenklänge</title>
             <title type="desc">op. 235</title>
             <respStmt>
-               <persName role="composer">Johann Strauss</persName>
+               <persName role="composer">Josef Strauss</persName>
             </respStmt>
          </titleStmt>
          <pubStmt>
@@ -37,7 +37,12 @@
          <mdiv xml:id="mzku3fv">
             <score xml:id="s1qnocfv">
                <scoreDef xml:id="s1w5t4yi" spacing.staff="20.000000vu" ending.rend="top" optimize="false">
-                  <staffGrp xml:id="sluso6y">
+                  <pgHead xml:id="phkhi471" func="first">
+                     <rend xml:id="rul98vn2" fontsize="300%" fontweight="bold" halign="center" valign="top">Sphärenklänge</rend>
+                     <rend xml:id="r92o6rk1" halign="center" fontsize="200%">Walzer</rend>
+                     <rend xml:id="r3utxoc" halign="right" fontsize="150%">Josef Strauss, Op. 235</rend>
+                  </pgHead>
+                <staffGrp xml:id="sluso6y">
                      <staffGrp xml:id="sdvnkpi" bar.thru="true">
                         <grpSym xml:id="gp5x1bu" symbol="bracket"/>
                         <staffGrp xml:id="sg2zkvj">
