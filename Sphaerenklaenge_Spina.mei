@@ -25,7 +25,7 @@
                <name xml:id="name-1jl93na">Verovio</name>
                <p xml:id="p-1n1fhht">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="afvv1kh1" enddate="2025-07-16T15:14:59" startdate="2023-03-02T10:09:54" version="1.2.6">
+            <application xml:id="afvv1kh1" enddate="2025-07-16T15:23:04" startdate="2023-03-02T10:09:54" version="1.2.6">
                <name xml:id="nbo5cyj1">mei-friend</name>
                <p xml:id="pwgvbat2">First edit by mei-friend 0.8.5, 28 Feb 2023.</p>
             </application>
@@ -40436,7 +40436,7 @@
                               <layer xml:id="l1ura404" n="1">
                                  <note xml:id="nhgtaen" accid.ges="s" dots="1" dur="4" oct="6" pname="c" stem.dir="down"/>
                                  <note xml:id="n4834we" accid="s" dur="8" oct="6" pname="d" stem.dir="down"/>
-                                 <note xml:id="nugpaft" dots="1" dur="4" oct="6" pname="e" stem.dir="down"/>
+                                 <note xml:id="nugpaft" dur="4" oct="6" pname="e" stem.dir="down"/>
                               </layer>
                            </staff>
                            <staff xml:id="s1ai0q8r" n="3">
@@ -51113,7 +51113,7 @@
                         </staff>
                         <staff xml:id="scfcir6" n="19">
                            <layer xml:id="l6fdrzh" n="1">
-                              <note xml:id="nqx9n9c" accid="n" dur="2" oct="4" pname="f" stem.dir="down" stem.mod="1slash"/>
+                              <note xml:id="nqx9n9c" accid="n" dots="1" dur="2" oct="4" pname="f" stem.dir="down" stem.mod="1slash"/>
                            </layer>
                         </staff>
                         <staff xml:id="siaw3ix" n="20">
@@ -51739,7 +51739,7 @@
                         </staff>
                         <staff xml:id="s1rtnslg" n="19">
                            <layer xml:id="lnattk8" n="1">
-                              <note xml:id="nstmye5" accid="n" dur="2" oct="4" pname="f" stem.dir="down" stem.mod="1slash"/>
+                              <note xml:id="nstmye5" accid="n" dots="1" dur="2" oct="4" pname="f" stem.dir="down" stem.mod="1slash"/>
                            </layer>
                         </staff>
                         <staff xml:id="sulmoxf" n="20">
@@ -52359,7 +52359,7 @@
                         </staff>
                         <staff xml:id="st0v6hr" n="19">
                            <layer xml:id="lqpbz91" n="1">
-                              <note xml:id="n1cvjbqx" accid="n" dur="2" oct="4" pname="f" stem.dir="down" stem.mod="1slash"/>
+                              <note xml:id="n1cvjbqx" accid="n" dots="1" dur="2" oct="4" pname="f" stem.dir="down" stem.mod="1slash"/>
                            </layer>
                         </staff>
                         <staff xml:id="svx5vju" n="20">
