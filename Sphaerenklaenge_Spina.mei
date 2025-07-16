@@ -25,7 +25,7 @@
                <name xml:id="name-1jl93na">Verovio</name>
                <p xml:id="p-1n1fhht">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="afvv1kh1" enddate="2025-07-16T15:23:04" startdate="2023-03-02T10:09:54" version="1.2.6">
+            <application xml:id="afvv1kh1" enddate="2025-07-16T15:40:01" startdate="2023-03-02T10:09:54" version="1.2.6">
                <name xml:id="nbo5cyj1">mei-friend</name>
                <p xml:id="pwgvbat2">First edit by mei-friend 0.8.5, 28 Feb 2023.</p>
             </application>
@@ -42,7 +42,7 @@
                      <rend xml:id="r92o6rk1" fontsize="200%" halign="center">Walzer</rend>
                      <rend xml:id="r3utxoc" fontsize="150%" halign="right">Josef Strauss, Op. 235</rend>
                   </pgHead>
-                  <pgFoot></pgFoot>
+                  <pgFoot xml:id="p67h47f"/>
                   <staffGrp xml:id="sluso6y">
                      <staffGrp xml:id="sdvnkpi" bar.thru="true">
                         <grpSym xml:id="gp5x1bu" symbol="bracket"/>
@@ -248,7 +248,7 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="all">
-                  <expansion xml:id="Version_Krauss1951" plist="#Introduktion #Walzer1-withRep-woDalSegno #Walzer2-withRep1-withRep2-woDalSegno #Walzer3-withRep1-withRep2-woDalSegno #Walzer4-withRep1-withRep2-woDalSegno #Walzer5-withRep1-withRep2-woDalSegno #Coda"/>
+                  <expansion xml:id="Longest_Version_Krauss1951" plist="#Introduktion #Walzer1-withRep-woDalSegno #Walzer2-withRep1-withRep2-woDalSegno #Walzer3-withRep1-withRep2-woDalSegno #Walzer4-withRep1-withRep2-woDalSegno #Walzer5-withRep1-withRep2-woDalSegno #Coda"/>
                   <expansion xml:id="Short-Version_Boskovsky1964" plist="#Introduktion #Walzer1-withRep-woDalSegno #Walzer2-woRep1-withRep2-woDalSegno #Walzer3-withRep1-withRep2-woDalSegno #Walzer4-withRep1-withRep2-woDalSegno #Walzer5-withRep1-withRep2-woDalSegno #Coda"/>
                   <expansion xml:id="Shortest-Version_Karajan1971" plist="#Introduktion #Walzer1-withRep-woDalSegno #Walzer2-woRep1-withRep2-woDalSegno #Walzer3-withRep1-woRep2-woDalSegno #Walzer4-woRep1-withRep2-woDalSegno #Walzer5-woRep1-withRep2-woDalSegno #Coda"/>
                   <expansion xml:id="Version_BauerTheussl1985" plist="#Introduktion #Walzer1-withRep-woDalSegno #Walzer2-withRep1-woRep2-woDalSegno #Walzer3-withRep1-withRep2-woDalSegno #Walzer4-withRep1-withRep2-woDalSegno #Walzer5-woRep1-woRep2-withDalSegno #Coda"/>
