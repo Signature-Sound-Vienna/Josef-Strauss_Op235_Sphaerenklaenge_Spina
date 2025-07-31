@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
-   <meiHead>
-      <fileDesc>
-         <titleStmt>
-            <title>Sphärenklänge</title>
-            <title type="desc">op. 235</title>
-            <respStmt>
-               <persName role="composer">Josef Strauss</persName>
+<mei xml:id="modek1h1" meiversion="5.1" xmlns="http://www.music-encoding.org/ns/mei">
+   <meiHead xml:id="mya5rdi2">
+      <fileDesc xml:id="fopcu6o2">
+         <titleStmt xml:id="ty6hvun2">
+            <title xml:id="tv8v7x4">Sphärenklänge</title>
+            <title xml:id="thplzdp1" type="desc">op. 235</title>
+            <respStmt xml:id="rtdciej2">
+               <persName xml:id="pf2s72d" role="composer">Josef Strauss</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt>
-            <date isodate="2022-08-24" type="encoding-date">2022-08-24</date>
-            <respStmt>
+         <pubStmt xml:id="pl39h2z1">
+            <date xml:id="djyj1w11" isodate="2022-08-24" type="encoding-date">2022-08-24</date>
+            <respStmt xml:id="rh2yw6t2">
                <persName xml:id="Matthaeus_Pescoller" role="encoder">Matthäus Pescoller</persName>
                <persName xml:id="Werner_Goebl" role="encoder">Werner Goebl</persName>
             </respStmt>
@@ -25,7 +25,7 @@
                <name xml:id="name-1jl93na">Verovio</name>
                <p xml:id="p-1n1fhht">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="afvv1kh1" enddate="2025-07-16T15:40:01" startdate="2023-03-02T10:09:54" version="1.2.6">
+            <application xml:id="afvv1kh1" enddate="2025-07-31T17:17:34" startdate="2023-03-02T10:09:54" version="1.2.7">
                <name xml:id="nbo5cyj1">mei-friend</name>
                <p xml:id="pwgvbat2">First edit by mei-friend 0.8.5, 28 Feb 2023.</p>
             </application>
@@ -38,9 +38,9 @@
             <score xml:id="s1qnocfv">
                <scoreDef xml:id="s1w5t4yi" ending.rend="top" optimize="false" spacing.staff="20.000000vu">
                   <pgHead xml:id="phkhi471" func="first">
-                     <rend fontsize="100%" halign="center">
-                        <rend xml:id="rul98vn2" fontsize="375%" fontweight="bold">Sphärenklänge<lb /></rend>
-                        <rend xml:id="r92o6rk1" fontsize="175%" >Walzer</rend>
+                     <rend xml:id="r7g3d1p1" fontsize="100%" halign="center">
+                        <rend xml:id="rul98vn2" fontsize="375%" fontweight="bold">Sphärenklänge<lb xml:id="li46wp51"/></rend>
+                        <rend xml:id="r92o6rk1" fontsize="175%">Walzer</rend>
                      </rend>
                      <rend xml:id="r3utxoc" fontsize="150%" halign="right" valign="bottom">Josef Strauss, Op. 235</rend>
                   </pgHead>
@@ -37841,11 +37841,11 @@
                                  <rest xml:id="r1m9xwce" dur="4"/>
                               </layer>
                            </staff>
-                           <dir xml:id="dpc8q82" fontfam="smufl" place="above" staff="1" tstamp="0.000000" type="segno">
-                              <rend xml:id="rhwtrgu" fontsize="150.00%" fontstyle="normal" halign="center">𝄋</rend>
+                           <dir xml:id="dpc8q82" place="above" staff="1" tstamp="0.000000" type="segno">
+                              <rend xml:id="rhwtrgu" fontsize="150.00%" fontstyle="normal" glyph.auth="smufl" halign="center">𝄋</rend>
                            </dir>
-                           <dir xml:id="df9njf6" fontfam="smufl" place="above" staff="17" tstamp="0.000000" type="segno">
-                              <rend xml:id="rrrc107" fontsize="150.00%" fontstyle="normal" halign="center">𝄋</rend>
+                           <dir xml:id="df9njf6" place="above" staff="17" tstamp="0.000000" type="segno">
+                              <rend xml:id="rrrc107" fontsize="150.00%" fontstyle="normal" glyph.auth="smufl" halign="center">𝄋</rend>
                            </dir>
                         </measure>
                      </ending>
