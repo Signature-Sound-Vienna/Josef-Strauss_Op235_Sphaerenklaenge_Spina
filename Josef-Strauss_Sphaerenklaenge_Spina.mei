@@ -5969,7 +5969,7 @@
                      <pb xml:id="p1p21f8"/>
                   </section>
                   <section xml:id="Walzer1">
-                     <expansion xml:id="Walzer2-withRep-woDalSegno" plist="#Walzer1-A #Walzer1-B #Walzer1-B-ending1 #Walzer1-B #Walzer1-B-ending3"/>
+                     <expansion xml:id="Walzer1-withRep-woDalSegno" plist="#Walzer1-A #Walzer1-B #Walzer1-B-ending1 #Walzer1-B #Walzer1-B-ending3"/>
                      <section xml:id="Walzer1-A">
                         <measure xml:id="m1rii4sa" n="27">
                            <staff xml:id="s1geh73v" n="1">
