@@ -25,7 +25,7 @@
                <name xml:id="name-1jl93na">Verovio</name>
                <p xml:id="p-1n1fhht">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="afvv1kh1" enddate="2025-07-31T17:17:34" startdate="2023-03-02T10:09:54" version="1.2.7">
+            <application xml:id="afvv1kh1" enddate="2025-07-31T17:21:56" startdate="2023-03-02T10:09:54" version="1.2.7">
                <name xml:id="nbo5cyj1">mei-friend</name>
                <p xml:id="pwgvbat2">First edit by mei-friend 0.8.5, 28 Feb 2023.</p>
             </application>
@@ -37841,11 +37841,10 @@
                                  <rest xml:id="r1m9xwce" dur="4"/>
                               </layer>
                            </staff>
-                           <dir xml:id="dpc8q82" place="above" staff="1" tstamp="0.000000" type="segno">
-                              <rend xml:id="rhwtrgu" fontsize="150.00%" fontstyle="normal" glyph.auth="smufl" halign="center">𝄋</rend>
-                           </dir>
-                           <dir xml:id="df9njf6" place="above" staff="17" tstamp="0.000000" type="segno">
-                              <rend xml:id="rrrc107" fontsize="150.00%" fontstyle="normal" glyph.auth="smufl" halign="center">𝄋</rend>
+                           <dir xml:id="dpc8q82" place="above" staff="1 17" tstamp="0.000000">
+                              <rend xml:id="rdooix6" halign="center">
+                                 <symbol xml:id="sfzjem3" fontsize="150%" glyph.auth="smufl" glyph.name="segno"/>
+                              </rend>
                            </dir>
                         </measure>
                      </ending>
