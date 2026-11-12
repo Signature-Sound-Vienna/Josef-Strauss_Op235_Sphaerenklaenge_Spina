@@ -5971,6 +5971,11 @@
                   <section xml:id="Walzer1">
                      <expansion xml:id="Walzer1-withRep-woDalSegno" plist="#Walzer1-A #Walzer1-B #Walzer1-B-ending1 #Walzer1-B #Walzer1-B-ending3"/>
                      <section xml:id="Walzer1-A">
+                        <scoreDef xml:id="sd-trans-st2-m27">
+                           <staffGrp xml:id="sg-trans-st2-m27">
+                              <staffDef xml:id="st-trans-st2-m27" n="2" trans.diat="7" trans.semi="12"/>
+                           </staffGrp>
+                        </scoreDef>
                         <measure xml:id="m1rii4sa" n="27">
                            <staff xml:id="s1geh73v" n="1">
                               <layer xml:id="lk0nad4" n="1">
